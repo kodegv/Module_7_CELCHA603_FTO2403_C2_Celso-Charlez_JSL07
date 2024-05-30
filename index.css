@@ -113,3 +113,19 @@ button:hover {
   background-color: #5d5f5e;
 }
 
+/* New css */
+
+.close {
+  cursor: pointer;
+  font-size: 28px;
+  font-weight: bold;
+  float: right;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
